@@ -4,13 +4,13 @@ $(function() {
 	    // array representing the format and columns of the cart, see
 	    // the cart columns documentation
 	    cartColumns: [
-	        { attr: "name" , label: "Name" },
-	        { attr: "price" , label: "Price", view: 'currency' },
+	        { attr: "name" , label: "Nome" },
+	        { attr: "price" , label: "Preço", view: 'currency' },
 	        { view: "decrement" , label: false },
-	        { attr: "quantity" , label: "Qty" },
+	        { attr: "quantity" , label: "UND" },
 	        { view: "increment" , label: false },
 	        { attr: "total" , label: "SubTotal", view: 'currency' },
-	        { view: "remove" , text: "Remove" , label: false }
+	        { view: "remove" , text: "Remover" , label: false }
 	    ],
 
 	    // "div" or "table" - builds the cart as a table or collection of divs
@@ -23,7 +23,7 @@ $(function() {
 	    },
 
 	    // set the currency, see the currency reference for more info
-	    currency: "USD",
+	    currency: "BRL",
 
 	    // collection of arbitrary data you may want to store with the cart,
 	    // such as customer info
@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "SimpleStore",
+		brand : "https://chikitaamigurumi.github.io/images/cb.png",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
