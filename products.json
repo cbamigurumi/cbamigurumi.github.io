@@ -10,14 +10,14 @@
 			"description" : "Uma Pokébola perfeita para o seu Pokémon!"
 		},
 		{
-			"name" : "Cogumelo Mário",
+			"name" : "Cogumelo do Mário",
 			"price" : "49.99",
 			"options" : [
 				{ "Cor" : "Verde, Vermelha" },		
 			    { "OneOfAKind" : true }
 			],
 			"image" : "https://cbamigurumi.github.io/images/vidamario.jpg",
-			"description" : "Garanta seus cogumelos!"
+			"description" : "Garanta já seus cogumelos!"
 		},
 		{
 			"name" : "Baby Yoda",
@@ -26,7 +26,7 @@
 				{ "Cor" : "Verde, Azul" }
 			],
 			"image" : "https://cbamigurumi.github.io/images/babyyoda.jpg",
-			"description" : "Resgate seu Baby Yoda e leve a força com você!"
+			"description" : "Resgate já seu Baby Yoda e leve a força com você!"
 		}
 	]
 }
