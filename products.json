@@ -7,18 +7,17 @@
 				{ "Cor" : "Vermelha, Azul, Verde" }
 			],
 			"image" : "https://cbamigurumi.github.io/images/pokebola.jpg",
-			"description" : "This is a very awesome grey T-shirt"
+			"description" : "Uma Pokébola perfeita para seu Pokémon!"
 		},
 		{
-			"name" : "Cool T-shirt",
-			"price" : "15.99",
+			"name" : "Cogumelo Mário",
+			"price" : "49.99",
 			"options" : [
-				{ "Tamanho" : "Small,Medium,Large" },
-				{ "Color" : "Blue,Red" },
+				{ "Cor" : "Verde, Vermelha" },		
 			    { "OneOfAKind" : true }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
-			"description" : "This is a really cool blue T-shirt"
+			"image" : "https://cbamigurumi.github.io/images/vidamario.jpg",
+			"description" : "Garanta seus cogumelos!"
 		},
 		{
 			"name" : "Fun T-shirt",
