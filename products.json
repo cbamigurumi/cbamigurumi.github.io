@@ -20,13 +20,13 @@
 			"description" : "Garanta seus cogumelos!"
 		},
 		{
-			"name" : "Fun T-shirt",
-			"price" : "15.99",
+			"name" : "Baby Yoda",
+			"price" : "59.99",
 			"options" : [
-				{ "Tamanho" : "Small,Medium,Large" }
+				{ "Cor" : "Verde, Azul" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is another fun grey T-shirt"
+			"image" : "https://cbamigurumi.github.io/images/babyyoda.jpg",
+			"description" : "Resgate seu Baby Yoda e leve a força com você!"
 		}
 	]
 }
