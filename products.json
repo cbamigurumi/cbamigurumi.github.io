@@ -1,10 +1,10 @@
 {
 	"products" : [
 		{
-			"name" : "Pokebola",
+			"name" : "Pokébola",
 			"price" : "49.99",
 			"options" : [
-				{ "" : "" }
+				{ "Cor" : "Vermelha, Azul, Verde" }
 			],
 			"image" : "https://cbamigurumi.github.io/images/pokebola.jpg",
 			"description" : "This is a very awesome grey T-shirt"
